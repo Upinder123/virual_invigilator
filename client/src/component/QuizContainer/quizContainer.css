@@ -1,0 +1,9 @@
+.spinner-border {
+  /* width: 15vw !important; */
+  /* height: 15vw !important ; */
+  vertical-align: text-bottom !important;
+  /* border: 1.3vw solid currentColor !important ; */
+  /* border-right-color: transparent !important; */
+  margin-top: 40vh !important;
+  /* animation: spinner-border .75s linear infinite; */
+}
