@@ -1,0 +1,58 @@
+.add-new-to-batch .form-group {
+  position: relative;
+}
+
+.add-new-to-batch .sj-dropdown {
+  background: #fff;
+  position: absolute;
+  /* border: 1px solid #ccc; */
+  max-height: 200px;
+  overflow-y: auto;
+  box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+}
+
+.sj-dropdown::-webkit-scrollbar {
+  width: 10px;
+}
+
+.sj-dropdown::-webkit-scrollbar-track {
+  background: #efefef;
+}
+
+.sj-dropdown.dropdown::-webkit-scrollbar-thumb {
+  background: #c1c0c0;
+  border-radius: 10px;
+}
+
+.sj-dropdown.dropdown::-webkit-scrollbar-thumb:hover {
+  background: #949494;
+}
+
+.add-new-to-batch .dropdown {
+  width: 100%;
+}
+
+#formBasicSearch + .sj-dropdown {
+  /* margin-top: -1rem; */
+}
+
+.add-new-to-batch .sj-dropdown .dropdown-item {
+  padding: 0.375rem 0.75rem;
+  cursor: pointer;
+}
+
+.add-new-to-batch .sj-dropdown .dropdown-item:focus:not(:focus-visible) {
+  outline: 0;
+}
+
+.add-new-to-batch .sj-dropdown .dropdown-item .user-name {
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.add-new-to-batch .sj-dropdown .dropdown-item .user-email {
+  color: #9c9c9c;
+  font-weight: 500;
+  font-size: 14px;
+  float: right;
+}

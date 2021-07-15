@@ -1,0 +1,15 @@
+.panel-container {
+}
+
+.panel-container .panel-accordion {
+}
+
+.panel-container .panel-accordion .card{
+  cursor: pointer;
+}
+
+@media (min-width: 768px) {
+  .panel-container .panel-accordion {
+    width: 60%;
+  }
+}
