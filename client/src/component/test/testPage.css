@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+
+* {
+  font-family: "Raleway", sans-serif;
+}
+
+.jumbo_div{
+	box-shadow: #3eadcf;
+}
+
+.Jumbo{
+	margin: 2em;
+	border-style: outset;
+	background-color: #b8c6db;
+	background-image: linear-gradient(315deg, #b8c6db 0%, #f5f7fa 74%);
+}
+
+.button{
+	background-color: #7ee8fa;
+	background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);
+	color: black;
+	border-style: outset;
+}
+
+.answerBtn {
+  position: relative;
+  padding: 10px;
+  background-color: rgb(250, 151, 37);
+  display: inline-block;
+  margin: 10px;
+  outline: none;
+  border: none;
+  font-size: 1em;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+}
