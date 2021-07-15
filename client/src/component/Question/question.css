@@ -1,0 +1,19 @@
+.question-container {
+  padding: 1.4rem .8rem;
+  background: #343a40;
+  padding-bottom: 5em;
+  color: #f7f7ff;
+}
+
+.pg-nav Button,
+.pg-nav Button:hover {
+  background: #343a40;
+  color: #f7f7ff;
+  border: 0;
+}
+
+.pg-btn {
+  background: #343a40;
+  color: #f7f7ff;
+  border: 0;
+}
