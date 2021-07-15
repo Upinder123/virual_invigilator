@@ -1,0 +1,18 @@
+._404-container {
+  width: fit-content;
+  margin-top: calc(45vh - 1.5rem - 50px);
+}
+
+.go-to-home-page {
+  font-size: 1.5rem;
+}
+
+.content {
+  margin: 1em;
+}
+
+@media (max-width: 767px) {
+  ._404-container {
+    margin-top: initial;
+  }
+}
