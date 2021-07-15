@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Antonio&display=swap');
+
+.client-route {
+  background-size: cover;
+  height: auto;
+  width: auto;
+  background-image: url(https://wallpapercave.com/wp/wp5265800.jpg) !important;
+  font-family: 'Antonio', sans-serif;
+}
